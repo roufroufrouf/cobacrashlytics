@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "518990014856",
+    "firebase_url": "https://coba-crashlytics.firebaseio.com",
+    "project_id": "coba-crashlytics",
+    "storage_bucket": "coba-crashlytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518990014856:android:e59a358783a0ff27",
+        "android_client_info": {
+          "package_name": "id.rrr.cobacrashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518990014856-1h24advffeklfjpugci46i35n6d7sqe6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.rrr.cobacrashlytics",
+            "certificate_hash": "9542025743ab8fe51e7ba244ca78d88660c33b39"
+          }
+        },
+        {
+          "client_id": "518990014856-meslg6nblf44pke05skh6b26gkrhnol0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMCkl8ir1C3MA_KCdsHXkwp2wbQYrq4L4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518990014856-meslg6nblf44pke05skh6b26gkrhnol0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
